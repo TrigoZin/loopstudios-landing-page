@@ -5,7 +5,7 @@ const imgLeader = document.querySelector('leader-img');
 
 let menuOpen = () => {
     if (!menuOpen) {
-        btnMenu.src = images / icon - close.svg;
+        btnMenu.src = images/icon-close.svg;
         btnMenu.style.width = '1.25rem';
         menu.style.display = 'block';
         imgLeader.style.display = 'none';
